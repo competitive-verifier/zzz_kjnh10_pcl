@@ -1,4 +1,4 @@
-#define PROBLEM "https://yukicoder.me/problems/no/30"
+// competitive-verifier: PROBLEM https://yukicoder.me/problems/no/30
 #include "../topological_sort.hpp"
 
 

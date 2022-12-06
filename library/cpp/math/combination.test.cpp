@@ -1,4 +1,4 @@
-#define PROBLEM "https://yukicoder.me/problems/no/1035"
+// competitive-verifier: PROBLEM https://yukicoder.me/problems/no/1035
 
 #include "combination.hpp"
 

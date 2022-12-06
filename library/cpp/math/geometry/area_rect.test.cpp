@@ -1,4 +1,4 @@
-#define PROBLEM "https://yukicoder.me/problems/no/1074"
+// competitive-verifier: PROBLEM https://yukicoder.me/problems/no/1074
 #include "area_rect.hpp"
 
 AreaRect M[4];

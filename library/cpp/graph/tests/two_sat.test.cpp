@@ -1,4 +1,4 @@
-#define PROBLEM "https://yukicoder.me/problems/no/274"
+// competitive-verifier: PROBLEM https://yukicoder.me/problems/no/274
 #include "../two_sat.hpp"
 
 int main() {

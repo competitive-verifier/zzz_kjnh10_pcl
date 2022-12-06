@@ -1,5 +1,4 @@
-#define PROBLEM \
-    "http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=jp"
+// competitive-verifier: PROBLEM http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=jp
 
 #include "../../header.hpp"
 #include "../graph.hpp"

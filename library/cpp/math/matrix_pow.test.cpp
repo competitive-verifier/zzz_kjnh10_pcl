@@ -1,4 +1,4 @@
-#define PROBLEM "https://yukicoder.me/problems/no/1073"
+// competitive-verifier: PROBLEM https://yukicoder.me/problems/no/1073
 #include "matrix_pow.hpp"
 #include "modint.hpp"
 
